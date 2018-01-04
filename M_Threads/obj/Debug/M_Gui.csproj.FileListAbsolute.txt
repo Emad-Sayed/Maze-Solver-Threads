@@ -1,0 +1,12 @@
+D:\M_Gui\M_Gui\bin\Debug\M_Gui.exe.config
+D:\M_Gui\M_Gui\bin\Debug\M_Gui.exe
+D:\M_Gui\M_Gui\bin\Debug\M_Gui.pdb
+D:\M_Gui\M_Gui\obj\Debug\M_Gui.csprojResolveAssemblyReference.cache
+D:\M_Gui\M_Gui\obj\Debug\M_Gui.Form1.resources
+D:\M_Gui\M_Gui\obj\Debug\M_Gui.Properties.Resources.resources
+D:\M_Gui\M_Gui\obj\Debug\M_Gui.csproj.GenerateResource.Cache
+D:\M_Gui\M_Gui\obj\Debug\M_Gui.exe
+D:\M_Gui\M_Gui\obj\Debug\M_Gui.pdb
+D:\M_Threads\M_Threads\bin\Debug\M_Gui.exe.config
+D:\M_Threads\M_Threads\obj\Debug\M_Gui.exe
+D:\M_Threads\M_Threads\obj\Debug\M_Gui.pdb
